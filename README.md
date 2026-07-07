@@ -60,7 +60,6 @@ Facial-Expression-Recognition-CNN
 ## ▶️ Run the Project
 
 ```bash
-pip install -r requirements.txt
 python src/realtime_detection.py
 ```
 
