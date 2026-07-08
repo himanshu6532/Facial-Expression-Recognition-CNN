@@ -50,7 +50,6 @@ Facial-Expression-Recognition-CNN
 ├── dataset
 ├── models
 ├── notebooks
-├── outputs
 ├── src
 ├── README.md
 ```
